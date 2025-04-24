@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "cleanzee",
+    "slug": "cleanzee",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/cleanzee.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/cleanzee.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.hlwong.cleanzee",
+      "permissions": ["ACCESS_FINE_LOCATION", "ACCESS_COARSE_LOCATION"],
+      "config": {
+        "googleMaps": {
+          "apiKey": ""
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
