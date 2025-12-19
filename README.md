@@ -1,6 +1,6 @@
 # Final Year Project: Cleanzee - Cleaning Service App
 
-![Thumbnail](cleaning-service-app.png)
+![Cover](https://github.com/hl-wong/cleanzee-fyp/blob/main/src/assets/images/cover.png)
 
 ## Overview
 
